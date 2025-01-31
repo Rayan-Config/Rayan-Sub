@@ -137,7 +137,7 @@ class ProxyConfig:
         self.PROTOCOL_BALANCE_FACTOR = 1.5        # Factor for adjusting protocol limits (default: 1.5)
 
         # Output file paths (default paths shown)
-        self.OUTPUT_FILE = 'configs/proxy_configs.txt'    # Path to save final configs
+        self.OUTPUT_FILE = 'configs/proxy.txt'    # Path to save final configs
         self.STATS_FILE = 'configs/channel_stats.json'    # Path to save channel stats
         
         # HTTP request settings
