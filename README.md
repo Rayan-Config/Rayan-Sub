@@ -14,7 +14,7 @@ This project automatically fetches and updates various proxy configurations from
 
 You can directly access the latest configurations through this URL:
 ```
-https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
 ```
 
 ## Channel and URL Performance
