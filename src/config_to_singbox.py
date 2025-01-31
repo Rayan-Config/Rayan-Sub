@@ -7,7 +7,7 @@ from urllib.parse import urlparse, parse_qs, unquote
 
 class ConfigToSingbox:
     def __init__(self):
-        self.output_file = 'configs/sb.json'
+        self.output_file = 'configs/singbox_configs.json'
 
     def decode_vmess(self, config: str) -> Optional[Dict]:
         try:
