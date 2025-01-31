@@ -53,30 +53,11 @@ class ProxyConfig:
         # List of source URLs to fetch proxy configs from
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         initial_urls = [
-            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
+            ChannelConfig("https://Rayan-Config.github.io/ALL"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
-            ChannelConfig("https://t.me/s/FreeV2rays"),
-            ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/shadowproxy66"),
-            ChannelConfig("https://t.me/s/OutlineReleasedKey"),
-            ChannelConfig("https://t.me/s/prrofile_purple"),
-            ChannelConfig("https://t.me/s/proxy_shadosocks"),
-            ChannelConfig("https://t.me/s/meli_proxyy"),
-            ChannelConfig("https://t.me/s/DirectVPN"),
-            ChannelConfig("https://t.me/s/VmessProtocol"),
-            ChannelConfig("https://t.me/s/ViProxys"),
-            ChannelConfig("https://t.me/s/heyatserver"),
-            ChannelConfig("https://t.me/s/vpnfail_vless"),
-            # ChannelConfig("https://t.me/s/vlessh"),
-            # ChannelConfig("https://t.me/s/V2ray_Alpha"),
-            # ChannelConfig("https://t.me/s/VlessConfig"),
-            ChannelConfig("https://t.me/s/DailyV2RY"),
-            ChannelConfig("https://t.me/s/ShadowsocksM")
-            # ChannelConfig("https://t.me/s/v2rayngvpn")
-            # ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria")
+            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt"),
+            ChannelConfig("https://t.me/s/Rayan_Proxy_Hub_I"),
+            ChannelConfig("https://t.me/s/Rayan_Proxy_Hub_II")
         ]
 
         # Remove duplicate URLs before assigning to SOURCE_URLS
@@ -87,7 +68,7 @@ class ProxyConfig:
         # Adjust these values to control how many configs of each type are collected
         self.PROTOCOL_CONFIG_LIMITS = {
             "min": 15,    # Minimum configs required per protocol (default: 3)
-            "max": 25    # Maximum configs allowed per protocol (default: 25)
+            "max": 250    # Maximum configs allowed per protocol (default: 25)
         }
 
         # Supported proxy protocols configuration
@@ -145,7 +126,7 @@ class ProxyConfig:
 
         # Channel-specific configuration limits
         self.MIN_CONFIGS_PER_CHANNEL = 1     # Minimum configs required from each channel (default: 3)
-        self.MAX_CONFIGS_PER_CHANNEL = 50    # Maximum configs allowed from each channel (default: 50)
+        self.MAX_CONFIGS_PER_CHANNEL = 100    # Maximum configs allowed from each channel (default: 50)
         self.MAX_CONFIG_AGE_DAYS = 90        # Maximum age of configs in days (default: 90)
         self.CHANNEL_RETRY_LIMIT = 10        # Maximum retry attempts per channel (default: 10)
         self.CHANNEL_ERROR_THRESHOLD = 0.7   # Error rate threshold to disable channel (default: 0.7 or 70%)
@@ -162,7 +143,7 @@ class ProxyConfig:
         # HTTP request settings
         self.MAX_RETRIES = 10            # Maximum number of retry attempts (default: 10)
         self.RETRY_DELAY = 15            # Delay between retries in seconds (default: 15)
-        self.REQUEST_TIMEOUT = 60        # Request timeout in seconds (default: 60)
+        self.REQUEST_TIMEOUT = 90        # Request timeout in seconds (default: 60)
         
         # HTTP request headers (default User-Agent and other headers)
         self.HEADERS = {
