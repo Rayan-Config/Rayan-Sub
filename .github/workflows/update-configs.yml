@@ -66,7 +66,7 @@ jobs:
     - name: Commit and push changes
       run: |
         git add configs/proxy.txt
-        git add configs/sb.json
+        git add configs/singbox_configs.json
         git add configs/channel_stats.json
         git add assets/channel_stats_chart.svg
         git add assets/performance_report.html
