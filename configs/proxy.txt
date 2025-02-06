@@ -20,8 +20,6 @@ vless://01faecc9-1067-4a19-f848-59a40fb81538@74.248.139.80:443?security=tls&sni=
 
 vless://01faecc9-1067-4a19-f848-59a40fb81538@74.248.139.80:443?security=tls&sni=six.dilik.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#Channel%20id:%20@shokhmiplus%20%F0%9F%87%B5%F0%9F%87%B1
 
-vless://03785d07-03ad-4e12-942e-aaccecb8ca2e@h5.xn--gmq282ekfhyys3gs.com:2087?mode=gun&security=reality&encryption=none&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=83cdb009#@meli_proxyy
-
 vless://03785d07-03ad-4e12-942e-aaccecb8ca2e@h5.xn--gmq282ekfhyys3gs.com:2087?security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&sid=83cdb009&type=grpc&encryption=none#https://t.me/ShadowsocksM
 
 vless://041f229a-63f6-4af1-a492-8cbff5797b8a@visa.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=telegram-falcunargo-bulgaria.falcunar.asso.eu.org&fp=chrome&type=ws&sni=telegram-falcunargo-bulgaria.falcunar.asso.eu.org#SERVER+V2RAY+BULGARIA+59+%F0%9F%87%A7%F0%9F%87%AC%40falcunargo
@@ -30,13 +28,13 @@ vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?security=tls&sn
 
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?security=tls&sni=wear.net&fp=chrome&type=ws&path=/?ed%3D2048&host=aw035.ir&encryption=none
 
+vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.214.133:443?security=tls&encryption=none&host=aw036.ir&type=ws&sni=wear.net#@meli_proxyy
+
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.214.133:443?security=tls&sni=wear.net&fp=chrome&type=ws&host=aw028.ir&encryption=none
 
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.214.133:443?security=tls&sni=wear.net&fp=chrome&type=ws&host=aw036.ir&encryption=none
 
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aw035.ir&type=ws&sni=wear.net#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🏵
-
-vless://048a4eec-aa97-44bc-b9f0-335767d4961f@c1.vact.ir:2083?security=reality&encryption=none&pbk=wOmjhFY8A0ePI29U00Ic3VTgYZGSe8iY8bu7QlYpiRU&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=73e4feeb0580#@meli_proxyy
 
 vless://054d503d-4748-47a6-8118-71a96c51f2d9@172.66.168.197:443?path=%2FVLESS&security=tls&encryption=none&host=Nl2-FulL.PrIvAteiP.NeT&type=ws&sni=Nl2-FulL.PrIvAteiP.NeT#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
@@ -49,6 +47,8 @@ vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gc
 vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.lu&fp=chrome&type=ws&path=/VLESS&host=nl43.maxima.us.kg&encryption=none#%20%F0%9F%87%B3%F0%9F%87%B1%20Nl-%201%20
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.186.96:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#https://t.me/ShadowsocksM
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.196.25:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.64.27:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#https://t.me/ShadowsocksM
 
@@ -106,6 +106,8 @@ vless://07ada97f-ad9c-46aa-a63b-fbb65b0a2476@live.989bull.com:80?mode=auto&path=
 
 vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=holze.gt-ov.com#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🦃
 
+vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=holze.gt-ov.com&fp=chrome&type=ws&sni=holze.gt-ov.com#@meli_proxyy
+
 vless://0835b08b-6c80-5375-9603-a78421f6ef7b@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-14.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-14-AT-II
 
 vless://08f7c98e-506c-4aca-a3ab-6fc99d015555@148.113.136.39:2053?security=reality&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519&type=grpc&serviceName=2053vless&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A8%F0%9F%87%A6%20CA-148.113.136.39:2053
@@ -133,8 +135,6 @@ vless://08f7c98e-506c-4aca-a3ab-6fc99d015555@15.235.49.201:2053?security=reality
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&sni=147135011033.sec21org.com&fp=chrome&type=tcp&encryption=none
 
 vless://0b874fb1-8916-45b6-bfbe-49140d31c22e@167.235.71.117:2083?security=reality&sni=www.cdn77.com&fp=chrome&pbk=SAeP7A2HlP9QndrqUydIxf8LQc0dqnXxTDORbINMKh0&sid=0c2cffaec6&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-167.235.71.117:2083
-
-vless://0b874fb1-8916-45b6-bfbe-49140d31c22e@c2.vact.ir:2083?security=reality&encryption=none&pbk=SAeP7A2HlP9QndrqUydIxf8LQc0dqnXxTDORbINMKh0&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=0c2cffaec6#@meli_proxyy
 
 vless://0c35e64e-3690-473d-bba6-e1bd6c6efe15@91.107.133.217:32802?security=reality&sni=yahoo.com&fp=chrome&pbk=XfXMJZ4sPWrkJpmuxv_wvpjyGS9Hfak40klQvuLToEE&sid=e8b512f570b483e8&type=grpc&serviceName=Tel:%20@NT_Safe&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.107.133.217:32802
 
@@ -210,6 +210,8 @@ trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=t
 
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&type=tcp#%2525F0%25259F%252594%252592%252520TR-TCP-TLS%252520%2525F0%25259F%252587%2525AC%2525F0%25259F%252587%2525A7%252520GB-161.35.34.48:443
 
 trojan://3767107462583558144@95.110.142.205:443?security=tls&sni=grown-cardinal.treefrog761.one&type=tcp#https://t.me/ShadowsocksM
@@ -224,17 +226,9 @@ trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni
 
 trojan://65086520307764900@3.39.67.154:443?security=tls&sni=hopeful-seagull.shiner427.skin&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
-trojan://65086520307764900@3.39.67.154:443?security=tls&sni=hopeful-seagull.shiner427.skin&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://65086520307764900@3.39.67.154:443?security=tls&sni=hopeful-seagull.shiner427.skin&allowInsecure=1&type=tcp#⚜️Telegram:@V2rayng_orgg
 
 trojan://65086520307764900@54.251.73.17:443?security=tls&sni=relieved-raccoon.shiner427.skin&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
-
-trojan://65086520307764900@arriving-longhorn.shiner427.skin:443/?type=tcp&security=tls#%F0%9F%91%BD30%40oneclickvpnkeys
-
-trojan://65086520307764900@engaged-cattle.shiner427.skin:443/?type=tcp&security=tls#%F0%9F%91%BD53%40oneclickvpnkeys
-
-trojan://65086520307764900@grateful-lark.shiner427.skin:443/?type=tcp&security=tls#%F0%9F%91%BD32%40oneclickvpnkeys
 
 trojan://65086520307764900@moral-rat.shiner427.skin:443?security=tls&sni=moral-rat.shiner427.skin&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
@@ -290,7 +284,15 @@ trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-94-131-115-71.stark-indus
 
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083?security=tls&sni=mailbox.CPIFOrpersiA.UK&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
+trojan://telegram-id-directvpn@13.48.161.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
+
+trojan://telegram-id-directvpn@13.48.161.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@13.51.143.163:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
+
+trojan://telegram-id-directvpn@13.60.126.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
+
+trojan://telegram-id-directvpn@13.60.126.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.60.143.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -301,8 +303,6 @@ trojan://telegram-id-directvpn@13.61.218.50:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.61.64.143:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://telegram-id-directvpn@15.156.135.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
-
-trojan://telegram-id-directvpn@15.156.135.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
 wireguard://0LuS60Qoscfs3T%2B9oiOhRQTKok1DawDnH%2B%2Ffs2ZU0VQ%3D@188.114.98.198:908?address=172.16.0.2%2F32&reserved=107%2C145%2C107&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
 
@@ -315,8 +315,6 @@ wireguard://6Auhx1h8Yxj4eTKCedBQ33eJrjF0ta0iXepym6XDLEA%3D@188.114.99.53:908?wno
 wireguard://CCxwGxwmpWbjN5L%2Bied%2Fimw2aPZ6PrXQp4touUjnEGQ%3D@188.114.96.181:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=198%2C92%2C137&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B5
 
 wireguard://IIi0qWjug05eWUsXLsYoP79SsVfjPPACM9fG8iG%2Bf2c%3D@188.114.96.247:3854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=248%2C43%2C18&keepalive=5&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B2
-
-wireguard://IIi0qWjug05eWUsXLsYoP79SsVfjPPACM9fG8iG%2Bf2c%3D@188.114.96.247:3854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=248%2C43%2C18&keepalive=5&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://KE6KyNDwmV01tQ5A%2BXMXdbhOIpVLX%2BhGCJuW0ZUtwlQ%3D@188.114.98.178:1002?address=172.16.0.2%2F32&reserved=247%2C104%2C1&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
@@ -472,6 +470,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#Mtn%40V2ray_Raha-8
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@awlix_ir
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eXRmVVppNXo0RzlhbW0yV3pXYVEy@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40External_Net
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eXRmVVppNXo0RzlhbW0yV3pXYVEy@81.19.141.45:443#T.me%2FSafeNet_Server+%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
@@ -508,8 +508,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WTVkUjFjVTFkam1pWHNh@52.237.155.68:443?outl
 
 SSHmax FASTLY :
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SWFhcjF4dzZKQzF2Q1dJWjhwQVZS@13.50.107.46:12916/?POST%20#Server-2
-
 hysteria2://04d3f3e7-1120-4662-bad8-7245df0571a2@154.83.93.93:35600?insecure=1&sni=rb.naisicloud.xyz#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B2%F0%9F%87%BE%20MY-154.83.93.93:35600
 
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-192.3.85.237:443
@@ -532,13 +530,9 @@ hysteria2://31bcf382-5da5-42a1-b4e7-9cfb40c1b68a@141.11.87.208:35600?insecure=1&
 
 hysteria2://452bb522-99f9-4291-8e7d-5a92d5bf1216@meiyou-hk.jiumaojiu.org:443?security=tls&insecure=0&mport=20501-20599&sni=meiyou-hk.jiumaojiu.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
-hysteria2://48a4317c-bc2f-4841-aed2-466dea02cfda@meiyou-lu.jiumaojiu.org:443?security=tls&insecure=0&mport=20501-20599&sni=meiyou-lu.jiumaojiu.org#@meli_proxyy
-
 hysteria2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443?obfs=salamander&obfs-password=13f7ba5f&insecure=1&sni=%5B2001%3A19f0%3A1000%3A20d0%3A5400%3A5ff%3Afe19%3A3ba9%5D#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443
 
 hysteria2://4kZUVzovsp@213.176.66.212:443?obfs=salamander&obfs-password=hISsAP9leMiSkDtxwkTF6Pq2s&insecure=1&sni=www.whatsapp.com#Hys2
-
-hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@188.68.248.8:7777?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
 
 hysteria2://8cec8896-1025-48fb-9d80-03ab5eb3d015@xxmg.bbgjc.cc:38546?insecure=1&sni=xxmg.bbgjc.cc#%E7%BE%8E%E5%9B%BD2
 
@@ -559,4 +553,8 @@ hysteria2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?obfs=s
 hysteria2://EMCPlWnlJp@213.176.66.212:443?obfs=salamander&obfs-password=hISsAP9leMiSkDtxwkTF6Pq2s&insecure=1&sni=www.whatsapp.com#Hys2
 
 hysteria2://V23wUDSYK2@213.176.66.212:443?obfs=salamander&obfs-password=hISsAP9leMiSkDtxwkTF6Pq2s&insecure=1&sni=www.whatsapp.com#Hys2
+
+hysteria2://a0605527-28e4-449c-80ee-5642cc16a8af@164.152.33.5:80?insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A7%F0%9F%87%B7%20BR-164.152.33.5:80
+
+hysteria2://a0605527-28e4-449c-80ee-5642cc16a8af@164.152.33.5:80?insecure=1&sni=br.huafei888.site#-UDP%20%F0%9F%87%A7%F0%9F%87%B7
 
