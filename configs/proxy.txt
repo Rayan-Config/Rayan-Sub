@@ -54,7 +54,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.196.25:22222?path=/telegram-c
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.64.27:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#https://t.me/ShadowsocksM
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.241.252:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.82.53:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#https://t.me/ShadowsocksM
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.235.32:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.222.42:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#https://t.me/ShadowsocksM
 
@@ -190,10 +194,6 @@ vless://16bc50ae-7ac4-5eff-a933-37ea524a4e39@bwdraper.faculty.ucdavis.edu:443?se
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-157.173.127.233:443
 
-vless://1ba2cfa8-5f0d-49f8-bcd4-aeab1e5614fa@kamyar.vact.ir:2083/?type=grpc&serviceName=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&authority=&security=reality&pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&fp=randomized&sni=refersion.com&sid=4ea00ce2&spx=%2F#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs.
-
-vless://1ba2cfa8-5f0d-49f8-bcd4-aeab1e5614fa@kamyar.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=&pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&sni=refersion.com&sid=4ea00ce2#%E3%80%8C%40Gp_Config%E3%80%8D%E2%9C%A8%F0%9F%8D%82%20%D9%BE%D8%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-
 vless://1cd1322f-b39a-48c7-bdc2-1ea8b993f623@77.239.101.221:53738?security=reality&sni=metrics.mzstatic.com&fp=chrome&pbk=x4CeoQDf0einaVE3BUnYv90ghS_3MovT1Ph-sqNA-2w&sid=77f4113ca02e3e&type=grpc&serviceName=ddmkdji&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A6%F0%9F%87%B9%20AT-77.239.101.221:53738
 
 vless://21255a90-4aa7-4bbe-bcac-0a957d40a7ef@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=tr-gfsff.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.7%20-%20TR
@@ -206,15 +206,17 @@ vless://270515a2-1c50-43fd-8bd1-c45f69ac4aa9@148.113.137.149:2053?security=reali
 
 trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#https://t.me/ShadowsocksM
 
+trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://3767107462583558144@95.110.142.205:443?security=tls&sni=grown-cardinal.treefrog761.one&type=tcp#https://t.me/ShadowsocksM
 
+trojan://3767107462583558144@95.110.142.205:443?security=tls&sni=grown-cardinal.treefrog761.one&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://65086520307764900@3.39.67.154:443?security=tls&sni=hopeful-seagull.shiner427.skin&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
-
-trojan://65086520307764900@3.39.67.154:443?security=tls&sni=hopeful-seagull.shiner427.skin&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://65086520307764900@54.251.73.17:443?security=tls&sni=relieved-raccoon.shiner427.skin&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
@@ -284,7 +286,9 @@ trojan://telegram-id-directvpn@13.60.126.30:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@13.61.212.164:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
-trojan://telegram-id-directvpn@13.61.218.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@13.61.252.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
+
+trojan://telegram-id-directvpn@13.61.252.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.61.64.143:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
@@ -300,11 +304,7 @@ trojan://telegram-id-directvpn@18.130.94.50:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@18.157.204.135:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
-trojan://telegram-id-directvpn@18.157.239.29:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E3%80%8C%40Gp_Config%E3%80%8D%E2%9C%A8%F0%9F%8D%82%20%D9%BE%D8%B1%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-
-trojan://telegram-id-directvpn@18.157.239.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
-
-wireguard://0LuS60Qoscfs3T%2B9oiOhRQTKok1DawDnH%2B%2Ffs2ZU0VQ%3D@188.114.98.198:908?address=172.16.0.2%2F32&reserved=107%2C145%2C107&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
+wireguard://0LuS60Qoscfs3T%2B9oiOhRQTKok1DawDnH%2B%2Ffs2ZU0VQ%3D@188.114.98.198:908?address=172.16.0.2%2F32&reserved=107%2C145%2C107&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
 
 wireguard://2JIUl6W%2BskxVXRaidY1MW%2FuI6wq13e4oVvueWgsmWEo%3D@188.114.99.229:878?address=172.16.0.2%2F32&presharedkey=&reserved=213%2C40%2C251&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#@meli_proxyy
 
@@ -314,6 +314,8 @@ wireguard://2JIUl6W%2BskxVXRaidY1MW%2FuI6wq13e4oVvueWgsmWEo%3D@188.114.99.229:87
 
 wireguard://6Auhx1h8Yxj4eTKCedBQ33eJrjF0ta0iXepym6XDLEA%3D@188.114.99.53:908?wnoise=quic&address=172.16.0.2%2F32&reserved=75%2C192%2C13&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B6
 
+wireguard://AC3E5rt3yfIlakibAtpALY7wsF%2B7Cz1nPgcCd71UtnA%3D@188.114.97.207:946?address=172.16.0.2%2F32&reserved=229%2C225%2C52&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
+
 wireguard://CCxwGxwmpWbjN5L%2Bied%2Fimw2aPZ6PrXQp4touUjnEGQ%3D@188.114.96.181:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=198%2C92%2C137&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B5
 
 wireguard://CCxwGxwmpWbjN5L%2Bied%2Fimw2aPZ6PrXQp4touUjnEGQ%3D@188.114.96.181:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=198%2C92%2C137&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -322,25 +324,25 @@ wireguard://IIi0qWjug05eWUsXLsYoP79SsVfjPPACM9fG8iG%2Bf2c%3D@188.114.96.247:3854
 
 wireguard://IIi0qWjug05eWUsXLsYoP79SsVfjPPACM9fG8iG%2Bf2c%3D@188.114.96.247:3854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=248%2C43%2C18&keepalive=5&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-wireguard://KE6KyNDwmV01tQ5A%2BXMXdbhOIpVLX%2BhGCJuW0ZUtwlQ%3D@188.114.98.178:1002?address=172.16.0.2%2F32&reserved=247%2C104%2C1&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
+wireguard://KE6KyNDwmV01tQ5A%2BXMXdbhOIpVLX%2BhGCJuW0ZUtwlQ%3D@188.114.98.178:1002?address=172.16.0.2%2F32&reserved=247%2C104%2C1&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
 
-wireguard://KO8QeVJiV8Qtui%2FLsR4gBU2%2B58yAptoLD9W5NCXqCW0%3D@188.114.99.119:880?address=172.16.0.2%2F32&reserved=227%2C167%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
+wireguard://KE6KyNDwmV01tQ5A%2BXMXdbhOIpVLX%2BhGCJuW0ZUtwlQ%3D@188.114.98.178:1002?address=172.16.0.2%2F32&reserved=247%2C104%2C1&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-wireguard://KO8QeVJiV8Qtui%2FLsR4gBU2%2B58yAptoLD9W5NCXqCW0%3D@188.114.99.119:880?address=172.16.0.2%2F32&reserved=227%2C167%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+wireguard://KO8QeVJiV8Qtui%2FLsR4gBU2%2B58yAptoLD9W5NCXqCW0%3D@188.114.99.119:880?address=172.16.0.2%2F32&reserved=227%2C167%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
 
-wireguard://MA1LOxNvNFnnn3Rjk16LGPnMKL4ayl0lhdElkIrQP0E%3D@188.114.99.205:928?address=172.16.0.2%2F32&reserved=210%2C149%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
+wireguard://MA1LOxNvNFnnn3Rjk16LGPnMKL4ayl0lhdElkIrQP0E%3D@188.114.99.205:928?address=172.16.0.2%2F32&reserved=210%2C149%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
-wireguard://YONtb%2FCiPnIw2ROMkjpmPI7B7k5PUUwEEhT8%2FPrKDl0%3D@188.114.97.124:988?address=172.16.0.2%2F32&reserved=179%2C239%2C166&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
+wireguard://YONtb%2FCiPnIw2ROMkjpmPI7B7k5PUUwEEhT8%2FPrKDl0%3D@188.114.97.124:988?address=172.16.0.2%2F32&reserved=179%2C239%2C166&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
-wireguard://aI%2Bz81FSJCfgQZQDSXUAGoyAkyfWaTikU%2Bv%2FJMc%2B6ng%3D@188.114.98.39:943?address=172.16.0.2%2F32&reserved=176%2C146%2C251&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
+wireguard://aI%2Bz81FSJCfgQZQDSXUAGoyAkyfWaTikU%2Bv%2FJMc%2B6ng%3D@188.114.98.39:943?address=172.16.0.2%2F32&reserved=176%2C146%2C251&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
-wireguard://cN01O0JBldhengG9NnpL5FqfaW4JcDLqS1BGtEN7Emc%3D@188.114.98.161:955?address=172.16.0.2%2F32&reserved=190%2C248%2C202&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
+wireguard://cN01O0JBldhengG9NnpL5FqfaW4JcDLqS1BGtEN7Emc%3D@188.114.98.161:955?address=172.16.0.2%2F32&reserved=190%2C248%2C202&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
 
 wireguard://eFIwJ4%2F5rWbjpCObLokLJous6%2Bh6OagLkVacniS9I18%3D@188.114.99.119:903?address=172.16.0.2%2F32&presharedkey=&reserved=131%2C227%2C20&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#@meli_proxyy
 
 wireguard://eFIwJ4%2F5rWbjpCObLokLJous6%2Bh6OagLkVacniS9I18%3D@188.114.99.119:903?wnoise=quic&address=172.16.0.2%2F32&reserved=131%2C227%2C20&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B8
 
-wireguard://gPz%2FVlvo70DDlnKHfhf70tl6fJ4sB612NhR0BlwAEVc%3D@188.114.99.207:1002?address=172.16.0.2%2F32&reserved=108%2C176%2C77&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
+wireguard://gPz%2FVlvo70DDlnKHfhf70tl6fJ4sB612NhR0BlwAEVc%3D@188.114.99.207:1002?address=172.16.0.2%2F32&reserved=108%2C176%2C77&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
 wireguard://mEBkT7BYbHhUkIr%2Fq8Baz%2FA%2BzS7I%2BnBIUwUxKoJEuU8%3D@162.159.195.130:2408?address=172.16.0.2%2F32&reserved=143%2C245%2C224&keepalive=5&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B9کانفیگهای وایرگارد وارپاد کنید توی کلاینت Nika و استفاده کنید(متصل با همه اپراتورها)⚡️ @ShadowProxy66
 
@@ -350,9 +352,7 @@ wireguard://mG19nkJr2J60ykmjomEIK1bBlNuxrwV18B0FuGImY3M%3D@162.159.192.111:987?a
 
 wireguard://mG19nkJr2J60ykmjomEIK1bBlNuxrwV18B0FuGImY3M%3D@162.159.192.111:987?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8c8f%3A5d96%3A18d6%3Abc6d%3Aef0e%2F128&reserved=30%2C137%2C216&keepalive=5&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B3
 
-wireguard://oAZ1plDwQ7jO4kIGBIeWzJef%2By0vUj03FjcUhYNzsXs%3D@188.114.97.251:955?address=172.16.0.2%2F32&reserved=199%2C181%2C10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
-
-wireguard://qNDB7LfAMGIszJHon4TIw9HNTRwC6pOAEPSx2d9LC2Q%3D@188.114.98.107:955?wnoise=quic&address=172.16.0.2%2F32&reserved=53%2C253%2C72&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B7
+wireguard://oAZ1plDwQ7jO4kIGBIeWzJef%2By0vUj03FjcUhYNzsXs%3D@188.114.97.251:955?address=172.16.0.2%2F32&reserved=199%2C181%2C10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
 
 vmess://ewogICAgImFkZCI6ICI1MS43Ny4yMC4xMzciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ0aWxlYmFuaS5jb20iLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6vwn4e3RlItNTEuNzcuMjAuMTM3LTgyNTIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
