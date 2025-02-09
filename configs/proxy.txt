@@ -132,6 +132,8 @@ vless://0ee358fe-8d55-445b-89d7-4ed76d58a515@151.101.194.165:80?security=&fp=chr
 
 vless://0ee358fe-8d55-445b-89d7-4ed76d58a515@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at-ftgsrh.maxima.us.kg&encryption=none#Rayan%20-%20GSS%20-%20GC%20-%20G.21%20-%20AT
 
+vless://0f298f0b-db94-4be4-a187-7d4297e30f4b@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ChiRpy-gardEN.Oneeat.cO.&type=ws#telegram 🎪 DailyV2ry
+
 vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.228:443?encryption=none&security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2F%3Fed%3D2048#@VIProxys
 
 vless://108aebfd-e42d-484e-a0e0-1ae07e98edd5@matrix4.mobindvil.shop:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🤡
@@ -182,8 +184,6 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.193:3237?security=none&
 
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.94:3237?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💋
 
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.23:3237?security=none&encryption=none&headerType=none&type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-
 vless://21255a90-4aa7-4bbe-bcac-0a957d40a7ef@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=tr-gfsff.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.7%20-%20TR
 
 vless://253f59da-b708-4404-cebe-3854aad88880@209.227.230.243:443?security=reality&sni=wordpress.org&fp=firefox&pbk=gH_h3-mo0stXouQX61J22W14N9-RlRjwo6BQgAcUay4&sid=c5508bd7&type=grpc&serviceName=vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl&encryption=none
@@ -201,8 +201,6 @@ trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sn
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://3767107462583558144@95.110.142.205:443?security=tls&sni=grown-cardinal.treefrog761.one&type=tcp#https://t.me/ShadowsocksM
-
-trojan://3767107462583558144@95.110.142.205:443?security=tls&sni=grown-cardinal.treefrog761.one&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
@@ -229,6 +227,18 @@ trojan://Aimer@162.159.45.156:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2
 trojan://Aimer@162.159.45.156:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=ngepz.ambercc.filegear-sg.me&fp=randomized&type=ws&sni=ngepz.ambercc.filegear-sg.me#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریست📌تنها ایدی خرید کانفیگ اختصاصی : 👇@V2rayvlessbot ☑️پشتیبانی:  @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocol🚨تمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید🚨
 
 trojan://Aimer@46.254.93.37:8443?security=tls&sni=acepo.ambercc.filegear-sg.me&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
+
+trojan://Bw5Mz7QkVp@z-v2-075392.kailib.com:443?security=tls&headerType=none&type=tcp#telegram ☂️ DailyV2ry
+
+trojan://Bw5Mz7QkVp@z-v2-076978.kailib.com:443?security=tls&headerType=none&type=tcp#telegram 🍊 DailyV2ry
+
+trojan://Bw5Mz7QkVp@z-v2-077020.kailib.com:443?security=tls&headerType=none&type=tcp#telegram 🌟 DailyV2ry
+
+trojan://Bw5Mz7QkVp@z-v2-077053.kailib.com:443?security=tls&headerType=none&type=tcp#telegram 🚀 DailyV2ry
+
+trojan://Bw5Mz7QkVp@z-v2-077764.kailib.com:443?security=tls&headerType=none&type=tcp#telegram ⚡️ DailyV2ry
+
+trojan://Bw5Mz7QkVp@z-v2-077770.kailib.com:443?security=tls&headerType=none&type=tcp#telegram 🎯 DailyV2ry
 
 trojan://C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag@154.17.26.150:28331?security=tls&headerType=none&type=tcp&sni=deliver.missionsec.io#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریست📌تنها ایدی خرید کانفیگ اختصاصی : 👇@V2rayvlessbot ☑️پشتیبانی:  @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocol🚨تمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید🚨
 
@@ -282,17 +292,9 @@ trojan://telegram-id-directvpn@13.48.117.11:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@13.48.117.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@13.51.113.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@13.51.143.163:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
-
-trojan://telegram-id-directvpn@13.61.212.164:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
-
-trojan://telegram-id-directvpn@13.61.219.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@13.61.64.143:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
-
 wireguard://0MhVssshSTxc0H%2FMQvQ0pTS%2Bf0P8lSmF00l9t8JP4U4%3D@188.114.97.8:955?address=172.16.0.2%2F32&reserved=200%2C211%2C62&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
+
+wireguard://0MhVssshSTxc0H%2FMQvQ0pTS%2Bf0P8lSmF00l9t8JP4U4%3D@188.114.97.8:955?address=172.16.0.2%2F32&reserved=200%2C211%2C62&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://AC3E5rt3yfIlakibAtpALY7wsF%2B7Cz1nPgcCd71UtnA%3D@188.114.97.207:946?address=172.16.0.2%2F32&reserved=229%2C225%2C52&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
@@ -303,6 +305,8 @@ wireguard://KE6KyNDwmV01tQ5A%2BXMXdbhOIpVLX%2BhGCJuW0ZUtwlQ%3D@188.114.98.178:10
 wireguard://MA1LOxNvNFnnn3Rjk16LGPnMKL4ayl0lhdElkIrQP0E%3D@188.114.99.205:928?address=172.16.0.2%2F32&reserved=210%2C149%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
 wireguard://WOHzG1vbvueycC84B72CxLeFalmX%2BalF2xvC2NpUuX4%3D@188.114.98.129:955?address=172.16.0.2%2F32&reserved=13%2C187%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
+
+wireguard://WOHzG1vbvueycC84B72CxLeFalmX%2BalF2xvC2NpUuX4%3D@188.114.98.129:955?address=172.16.0.2%2F32&reserved=13%2C187%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://YONtb%2FCiPnIw2ROMkjpmPI7B7k5PUUwEEhT8%2FPrKDl0%3D@188.114.97.124:988?address=172.16.0.2%2F32&reserved=179%2C239%2C166&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
@@ -336,11 +340,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTg4LjExNC45Ni4zIiwicG9ydCI6
 
 vmess://eyJ2IjoiMiIsInBzIjoiRC1CUk9XTi04MjU4IiwiYWRkIjoiMTU3LjI0NS40LjUyIiwicG9ydCI6Ijg4ODEiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibWloYW53ZWJob3N0LmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTM4LjE5Ny4xLjIyMiIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1vaS5pciIsInBhdGgiOiJcLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
-
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTYzLjUuMTU5LjIzMSIsInBvcnQiOiI0NDMiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpcnZpZGVvLmNmZCIsInBhdGgiOiJcL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6ImlydmlkZW8uY2ZkIiwiYWxwbiI6IiIsImZwIjoiIn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTg4LjExNC45Ni4zIiwicG9ydCI6IjQ0MyIsImlkIjoiNWY3MjZmZTMtZDgyZS00ZGE1LWE3MTEtOGFmMGNiYjJiNjgyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImI2MmE5NDhjLWZhYTItNGU4YS1iZjhhLTNmZjMxMjFjODc1YS5hc291bC1hdmEudG9wIiwicGF0aCI6IlwvYXp1bWFzZS5yZW4iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJiNjJhOTQ4Yy1mYWEyLTRlOGEtYmY4YS0zZmYzMTIxYzg3NWEuYXNvdWwtYXZhLnRvcCIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjI0Ny4yMTkiLCJwb3J0Ijo0NjE3NSwiaWQiOiI5Yjg1ZjI1Zi03ZTJiLTRlYzktODQxZS01NGFkZTNkMWU5YmUiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIiLCJhdXRob3JpdHkiOiIifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3W0NETl1cdTVkZjRcdTg5N2Z8XHU1NzIzXHU0ZmRkXHU3ZjU3IiwiYWRkIjoiYnIuODk5OTk0Lnh5eiIsInBvcnQiOiI0NDMiLCJpZCI6ImEwNjA1NTI3LTI4ZTQtNDQ5Yy04MGVlLTU2NDJjYzE2YThhZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcL2luZGV4IiwidGxzIjoidGxzIiwic25pIjoiYnIuODk5OTk0Lnh5eiJ9
 
@@ -363,6 +365,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxW0NETl1cdTgzNzdcdTUx
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W0NETl1cdTdmOGVcdTU2ZmR8XHU1MWU0XHU1MWYwXHU1N2NlIiwiYWRkIjoicGhvZW5peC44OTk5OTQueHl6IiwicG9ydCI6Ijg0NDMiLCJpZCI6ImEwNjA1NTI3LTI4ZTQtNDQ5Yy04MGVlLTU2NDJjYzE2YThhZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InBob2VuaXguODk5OTk0Lnh5eiIsInBhdGgiOiJcL2luZGV4IiwidGxzIjoidGxzIiwic25pIjoicGhvZW5peC44OTk5OTQueHl6In0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W0NETl1cdTdmOGVcdTU2ZmR8XHU2Y2UyXHU3Mjc5XHU1MTcwIiwiYWRkIjoicG9ydGxhbmQuODk5OTk0Lnh5eiIsInBvcnQiOiI4NDQzIiwiaWQiOiJhMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC9pbmRleCIsInRscyI6InRscyIsInNuaSI6InBvcnRsYW5kLjg5OTk5NC54eXoifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W0NETl1cdTdmOGVcdTU2ZmR8XHU3ZWJkXHU3ZWE2IiwiYWRkIjoiYnVmZmFsby44OTk5OTQueHl6IiwicG9ydCI6Ijg0NDMiLCJpZCI6ImEwNjA1NTI3LTI4ZTQtNDQ5Yy04MGVlLTU2NDJjYzE2YThhZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcL2luZGV4IiwidGxzIjoidGxzIiwic25pIjoiYnVmZmFsby44OTk5OTQueHl6In0=
 
 ss://055177-9Tnzvv73dmnPvv70f77-9z71777-977-92b3vv73vv71_Ou-_ve-_vV4=@15.156.137.45:22222#https://t.me/ShadowsocksM
 
@@ -458,13 +462,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.49.201:443#@mel
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig107.usecharge.ir:443#https://t.me/ShadowsocksM
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@free116.usecharge.ir:443#https://t.me/falcunargo
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%E2%9A%A1%EF%B8%8F%20%40skill_look%20%28Outline%29
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#https://t.me/ShadowsocksM
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCeW90UmREeDFvWFN1ckNaYjllcjJw@213.176.66.228:24495#%40vpn_v2rang_box
 
 hysteria2://0495fe07-c7fe-4af6-9827-069b32457110@81.177.3.227:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU7
 
