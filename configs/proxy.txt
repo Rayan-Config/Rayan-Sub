@@ -544,11 +544,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SWFhcjF4dzZKQzF2Q1dJWjhwQVZS@13.53.217.204:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SWFhcjF4dzZKQzF2Q1dJWjhwQVZS@13.53.217.42:12916/?POST%20#Server-1
 
-hysteria2://0495fe07-c7fe-4af6-9827-069b32457110@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU7
+hysteria2://0495fe07-c7fe-4af6-9827-069b32457110@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H7
 
-hysteria2://07d4ef3b-1430-451a-acd9-a4d4e7c0456d@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU11
+hysteria2://07d4ef3b-1430-451a-acd9-a4d4e7c0456d@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H11
 
-hysteria2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU1
+hysteria2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H1
 
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-192.3.85.237:443
 
@@ -556,35 +556,35 @@ hysteria2://1c75c175-e32e-42d3-88e1-0147df42356c@meizi-lu.jiumaojiu.org:443?secu
 
 hysteria2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?obfs=salamander&obfs-password=4b817757&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443
 
-hysteria2://29221c3e-b3e9-4297-a50d-bf85a2bed80b@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU17
+hysteria2://29221c3e-b3e9-4297-a50d-bf85a2bed80b@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H17
 
-hysteria2://298e4dd5-37b2-4021-9867-490b829cd646@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU19
+hysteria2://298e4dd5-37b2-4021-9867-490b829cd646@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H19
 
 hysteria2://452bb522-99f9-4291-8e7d-5a92d5bf1216@meiyou-hk.jiumaojiu.org:443?security=tls&insecure=0&mport=20501-20599&sni=meiyou-hk.jiumaojiu.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
-hysteria2://48670f89-8e15-4d5e-97db-cc2e5064b491@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU20
+hysteria2://48670f89-8e15-4d5e-97db-cc2e5064b491@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H20
 
 
 
 GAFN Fastly:
 
-hysteria2://4f3079e5-29a3-49a0-a820-f1b08cc04f39@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU13
+hysteria2://4f3079e5-29a3-49a0-a820-f1b08cc04f39@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H13
 
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU5
+hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H5
 
-hysteria2://649c1549-da73-406a-a184-9b4c4347d76c@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU8
+hysteria2://649c1549-da73-406a-a184-9b4c4347d76c@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H8
 
-hysteria2://729922eb-2020-40a1-89f9-6eb97abcaa02@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU6
+hysteria2://729922eb-2020-40a1-89f9-6eb97abcaa02@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H6
 
-hysteria2://7808b21b-b9b4-49f9-b0a8-8f507be11629@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU3
+hysteria2://7808b21b-b9b4-49f9-b0a8-8f507be11629@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H3
 
 hysteria2://7JUefW4Jmf@213.176.66.212:443?obfs=salamander&obfs-password=hISsAP9leMiSkDtxwkTF6Pq2s&insecure=1&sni=www.whatsapp.com#Hys2
 
-hysteria2://7a875369-b582-425a-9f97-db3a432b444c@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU2
+hysteria2://7a875369-b582-425a-9f97-db3a432b444c@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H2
 
-hysteria2://80f97b15-d8ad-4863-b4ed-22f1bdc534a9@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU18
+hysteria2://80f97b15-d8ad-4863-b4ed-22f1bdc534a9@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H18
 
-hysteria2://92d1a9ea-0cd8-4efb-b53f-b6496f8abef8@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU14
+hysteria2://92d1a9ea-0cd8-4efb-b53f-b6496f8abef8@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H14
 
 hysteria2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?obfs=salamander&obfs-password=cd29099d&insecure=1&sni=vkvd127.mycdn.me#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443
 
@@ -598,9 +598,9 @@ hysteria2://a0605527-28e4-449c-80ee-5642cc16a8af@62.72.163.215:80?insecure=1#%F0
 
 hysteria2://a3ed02b6-42f7-4ef0-a0a2-a25e9a05ac80@207.180.248.7:26874/?insecure=1&sni=www.bing.com#Hy2-s16-DBF=============
 
-hysteria2://a6c590b8-12b9-4107-b840-e79d95961a70@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU10
+hysteria2://a6c590b8-12b9-4107-b840-e79d95961a70@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H10
 
-hysteria2://ab4baa8c-98e2-419c-a0e9-df7faf09ebbe@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20RU9
+hysteria2://ab4baa8c-98e2-419c-a0e9-df7faf09ebbe@77.37.97.27:43615?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H9
 
 hysteria2://ab6d0bac-0c75-4684-9628-16288f0229c2@129.158.35.65:30303?insecure=1&sni=v3-prime-xg-web-pc.ixigua.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-129.158.35.65:30303
 
