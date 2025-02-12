@@ -124,8 +124,6 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&sni=14
 
 vless://0b874fb1-8916-45b6-bfbe-49140d31c22e@167.235.71.117:2083?security=reality&sni=www.cdn77.com&fp=chrome&pbk=SAeP7A2HlP9QndrqUydIxf8LQc0dqnXxTDORbINMKh0&sid=0c2cffaec6&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-167.235.71.117:2083
 
-vless://0bc064a9-251d-491f-a4c8-6bb51bbc1f3e@ev2.waltonweb.ir:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=uFmEuU6g4bGK3NnqCSJHvJ_4zjp4AbZ0wK9nBKSMNRc&sid=c8206675b00c211e&spx=%2F&type=tcp&headerType=none#%F0%9F%A4%96%20Tel%20%3A%20%40ExpressV2ray_Bot%20%F0%9F%91%88%F0%9F%9A%80%F0%9F%94%A5
-
 vless://0bc064a9-251d-491f-a4c8-6bb51bbc1f3e@ev2.waltonweb.ir:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=uFmEuU6g4bGK3NnqCSJHvJ_4zjp4AbZ0wK9nBKSMNRc&sid=c8206675b00c211e&spx=%2F&type=tcp&headerType=none#@meli_proxyy
 
 vless://0bc064a9-251d-491f-a4c8-6bb51bbc1f3e@ev2.waltonweb.ir:8443?security=reality&encryption=none&pbk=uFmEuU6g4bGK3NnqCSJHvJ_4zjp4AbZ0wK9nBKSMNRc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c8206675b00c211e#Tel%20%3A%20%40SkiVpn%F0%9F%91%88%F0%9F%9A%80%F0%9F%94%A5
@@ -151,6 +149,8 @@ vless://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=reality&s
 vless://108aebfd-e42d-484e-a0e0-1ae07e98edd5@matrix4.mobindvil.shop:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🤡
 
 vless://10ade744-d103-40d8-83e0-77a9bc343c07@156.229.163.157:12328?security=reality&sni=www.swift.com&fp=chrome&pbk=0YSYFeihg5eJSBANonnWjrMl4SrWsZ0bdPOKhPdFpFI&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%BA%F0%9F%87%B8%20US-156.229.163.157:12328
+
+vless://10b49883-f5c4-442f-a33e-04320d2eafa4@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=SLiMY-IMAgiNAtIoN.OnEeat.cO.&type=ws#telegram 🚀 DailyV2ry
 
 vless://1480f5be-a375-5f01-94e2-7ee0dce895d1@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-50.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-50-SK-I
 
