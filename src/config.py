@@ -72,25 +72,11 @@ class ProxyConfig:
         self.specific_config_count = 200
 
         initial_urls = [
-            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
+            ChannelConfig("https://Rayan-Config.github.io/ALL"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
-            ChannelConfig("https://t.me/s/FreeV2rays"),
-            ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/shadowproxy66"),
-            ChannelConfig("https://t.me/s/OutlineReleasedKey"),
-            ChannelConfig("https://t.me/s/prrofile_purple"),
-            ChannelConfig("https://t.me/s/proxy_shadosocks"),
-            ChannelConfig("https://t.me/s/meli_proxyy"),
-            ChannelConfig("https://t.me/s/DirectVPN"),
-            ChannelConfig("https://t.me/s/VmessProtocol"),
-            ChannelConfig("https://t.me/s/ViProxys"),
-            ChannelConfig("https://t.me/s/heyatserver"),
-            ChannelConfig("https://t.me/s/vpnfail_vless"),
-            ChannelConfig("https://t.me/s/DailyV2RY"),
-            ChannelConfig("https://t.me/s/ShadowsocksM")
+            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt"),
+            ChannelConfig("https://t.me/s/Rayan_Proxy_Hub_I"),
+            ChannelConfig("https://t.me/s/Rayan_Proxy_Hub_II")
         ]
 
         self.SOURCE_URLS = self._remove_duplicate_urls(initial_urls)
@@ -113,7 +99,7 @@ class ProxyConfig:
         self.MAX_CONFIG_AGE_DAYS = min(30, max(1, 7))
         self.CHANNEL_RETRY_LIMIT = min(10, max(1, 5))
         self.CHANNEL_ERROR_THRESHOLD = min(0.9, max(0.1, 0.7))
-        self.OUTPUT_FILE = 'configs/proxy_configs.txt'
+        self.OUTPUT_FILE = 'configs/proxy.txt'
         self.STATS_FILE = 'configs/channel_stats.json'
         self.MAX_RETRIES = min(10, max(1, 5))
         self.RETRY_DELAY = min(60, max(5, 15))
