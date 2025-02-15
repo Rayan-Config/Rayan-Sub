@@ -14,13 +14,13 @@ This project automatically fetches and updates various proxy configurations from
 
 You can directly access the latest configurations through this URL:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
 ```
 This project features advanced capabilities for proxy configuration management. The retrieved configurations are automatically converted to Sing-box format and stored in a separate JSON file. For each server, its geographical location is identified using the get location method, and the corresponding flag emoji and country name are automatically added to its tag. These features make proxy management and usage significantly more user-friendly and efficient.
 
 Sing-box subscription link:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
+https://raw.githubusercontent.com/4n0nymou3/Rayan-Config/C-Sub/refs/heads/main/configs/singbox_configs.json
 ```
 
 ## Channel and URL Performance
@@ -35,14 +35,14 @@ Below is the real-time performance statistics of the configured sources (Telegra
 </div>
 
 ### Detailed Report
-📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/Rayan-Config/C-Sub/blob/main/assets/performance_report.html)
 
 > **Important for Forked Repositories**:  
 If you fork this repository, make sure to replace `USERNAME` in the above link with your GitHub username. This ensures that the link directs to your own interactive dashboard instead of the original project's dashboard. To do this:
 1. Edit the `README.md` file in your forked repository.
 2. Locate the following line:
    ```markdown
-   📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/USERNAME/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+   📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/Rayan-Config/C-Sub/blob/main/assets/performance_report.html)
    ```
 3. Replace `USERNAME` with your GitHub username.
 4. Commit the changes.
@@ -85,7 +85,7 @@ The overall score is calculated in real-time and updated hourly. Sources scoring
 1. Fork this repository.
 2. Edit `src/config.py` and add your Telegram channels, SSCONF links or other URLs to the `SOURCE_URLS` list.
 3. Enable GitHub Actions in your forked repository.
-4. The configs will be automatically updated every hour in `configs/proxy_configs.txt`.
+4. The configs will be automatically updated every hour in `configs/proxy.txt`.
 
 ## Manual Setup
 
