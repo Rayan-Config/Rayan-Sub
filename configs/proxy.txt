@@ -22,6 +22,8 @@ vless://%50%61%72%73%61%73%68%6f%6e%61%6d%2d%31%37%36@185.146.173.39:8880?Telegr
 
 vless://%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52%2d%38%30%39%35%62%31%38%30%33%33%38%61@151.101.0.155:80?Telegram=@V2RayTz,@V2RayTz&path=/te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52?ed%3d808%30&security=none&encryption=none&host=6.f%69dsx%73s21%3320x%2eir&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D+%E2%9E%A0+%40V2RayTz+%7C+34154</code></blockquote>
 
+vless://0110da41-e7e7-51bb-b93c-868167644bd2@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-50.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-50%20-%20SK%20-%20I
+
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?path=%2F%3Fed&security=tls&encryption=none&host=aw039.ir&type=ws&sni=wear.net#erfan
 
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?path=%2F%3Fed&security=tls&encryption=none&host=aw039.ir&type=ws&sni=wear.net#https%3A%2F%2Ft.me%2Fsorenab1%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F%E2%99%A0%EF%B8%8F%E2%99%A5%EF%B8%8F%F0%9F%A7%BF
@@ -48,6 +50,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.75.20.213:22222?path=/telegram-c
 
 vless://06cc6ba6-b10c-5bd9-91dd-8e6f72fcf970@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-argetgrwt.maxima.us.kg&encryption=none#Rayan%20-%20SSO%20-%20GC%20-%20G.72%20-%20NL
 
+vless://084ebb8d-52b4-426a-9052-a769b21d4e7c@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-11.com&encryption=none#Rayan%20-%20CBT%20-%20FL%20-%20F-11%20-%20UA%20-%20I
+
 vless://09f08444-f752-4226-8b3f-3bafa5d9c902@93.114.98.100:8989?security=reality&sni=refersion.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B9%F0%9F%87%B7%20TR-93.114.98.100:8989
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@147135011033.sec21org.com:443?security=tls&fp=chrome&type=tcp&encryption=none#https://t.me/ShadowsocksM
@@ -72,7 +76,7 @@ vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?security=tls&sn
 
 vless://0f847048-610c-46b6-95f8-3c38b5c8471b@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=x0zt0o.proximavpn.site&type=ws&alpn=http/1.1&host=x0zt0o.proximavpn.site&path=/wss#telegram 🍊 DailyV2ry
 
-vless://10f466c6-84f6-406c-95b5-e4cb19a27b03@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-7.com&encryption=none#Rayan%20-%20GSS%20-%20FL%20-%20F-7-AT-I
+vless://1108cedb-2b4b-404d-9e80-081d5ca6c081@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-9.com&encryption=none#Rayan%20-%20GSS%20-%20FL%20-%20F-9%20-%20UK%20-%20I
 
 vless://13e95855-c765-4580-94ce-a9abd976ccfd@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=eMpathiC-DaMagE.oNEEAT.co.&type=ws#telegram 🍊 DailyV2ry
 
@@ -106,15 +110,11 @@ vless://177448d4-687f-4fc5-a5f8-fd3a5056f545@jermaine.ns.cloudflare.com:443?encr
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-157.173.127.233:443
 
+vless://19781da9-441f-56e6-a497-7af053ba1537@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-20.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-20%20-%20RS%20-%20I
+
 vless://1aa36690-b2d2-4e1f-a5be-164bd0055b82@45.63.89.177:8080?path=%2F&security=none&encryption=none&type=ws#telegram 🍊 DailyV2ry
 
-vless://1ab0b1f3-5ea3-50e9-9011-24204aba9138@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-14.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-14-NL-I
-
 vless://1b858c63-8fef-4ac0-8eac-1e73f16b947f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DIGnifIEd-prOFiLe.ONeeaT.CO.&type=ws#telegram 🍊 DailyV2ry
-
-vless://1c4dd00a-04d6-4572-8e44-e18cd6a55655@Amin66.auiyf.com:443?mode=gun&security=reality&encryption=none&pbk=cj94tgjXDkgM-h1YbsI6sr1azoQZ6YRK1WqpM5WJNUw&fp=chrome&spx=%2F&type=grpc&serviceName=%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android%2FTelegram%2C%40Archive_Android&sni=www.cdn77.com#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
-
-vless://1c9b9560-2a2b-4a31-a53d-fef0efd3c33d@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=GReeN-BEGINniNg.onEEat.CO.&type=ws#telegram 🌟 DailyV2ry
 
 ss://055177-9Tnzvv73dmnPvv70f77-9z71777-977-92b3vv73vv71_Ou-_ve-_vV4=@3.11.166.55:22222#https://t.me/ShadowsocksM
 
