@@ -8,10 +8,10 @@
         <text x="140" y="100" text-anchor="end" class="row">ALL</text>
         <text x="660" y="100" text-anchor="start" class="score">75.0% (S:100%)</text><rect x="150" y="130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="130" width="388.54999999999995" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="150" text-anchor="end" class="row">configs.txt</text>
-        <text x="660" y="150" text-anchor="start" class="score">77.7% (S:100%)</text><rect x="150" y="180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="180" width="374.4" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="150" text-anchor="start" class="score">77.7% (S:100%)</text><rect x="150" y="180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="180" width="374.0" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="200" text-anchor="end" class="row">proxy_configs.txt</text>
-        <text x="660" y="200" text-anchor="start" class="score">74.9% (S:100%)</text><rect x="150" y="230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="230" width="460.25" height="30" fill="#22c55e" rx="5"/>
+        <text x="660" y="200" text-anchor="start" class="score">74.8% (S:100%)</text><rect x="150" y="230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="230" width="462.1" height="30" fill="#22c55e" rx="5"/>
         <text x="140" y="250" text-anchor="end" class="row">Rayan_Proxy_Hub_I</text>
-        <text x="660" y="250" text-anchor="start" class="score">92.0% (S:100%)</text><rect x="150" y="280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="280" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="250" text-anchor="start" class="score">92.4% (S:100%)</text><rect x="150" y="280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="280" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="300" text-anchor="end" class="row">Rayan_Proxy_Hub_II</text>
         <text x="660" y="300" text-anchor="start" class="score">15.0% (S:0%)</text></svg>
