@@ -102,7 +102,7 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@94.140.0.38:443?mode=gun&security=t
 
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp912MvNe3.NeWrEtR432aS.iNfO#telegram 🍊 DailyV2ry
 
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp912PxVd3.NeWrEtR432aS.iNfO#telegram 🍊 DailyV2ry
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp912PxVd3.NeWrEtR432aS.iNfO#telegram 🍀 DailyV2ry
 
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp912RiMgE.nEwReTr432As.InFo#telegram 🍊 DailyV2ry
 
@@ -346,15 +346,21 @@ trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40
 
 trojan://3747000103274291200@85.90.194.160:443?security=tls&headerType=none&type=tcp&sni=awaited-chicken.adder289.quest#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
-trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@jp1.8b1c7c70-ecf1-6891-9fa7-68a86662f902.9d8f269f96b25232-759cbb36d6548597.kaufen:443/?type=tcp&security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://3747000103274291200@85.90.194.160:443?security=tls&headerType=none&type=tcp&sni=awaited-chicken.adder289.quest#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
 
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
+
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
 
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#%40V2rayNG3
+
+trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.39.214.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -420,8 +426,6 @@ trojan://telegram-id-privatevpns@13.61.202.241:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@15.188.107.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs 📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.188.107.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@18.133.13.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs 📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.134.220.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs 📚آموزش استفاده از سرورها🌐 @PrivateVPNs
@@ -448,29 +452,15 @@ trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@3.73.208.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs 📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.73.208.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
-trojan://telegram-id-privatevpns@34.242.167.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs 📚آموزش استفاده از سرورها🌐 @PrivateVPNs
-
 wireguard://2JQZKtZg%2FZ1A8Zfl0l%2BGEM5Y%2FxpeIdR6Tx%2BzX5f0qUs%3D@188.114.99.44:946?address=172.16.0.2%2F32&reserved=106%2C168%2C219&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
-
-wireguard://2JQZKtZg%2FZ1A8Zfl0l%2BGEM5Y%2FxpeIdR6Tx%2BzX5f0qUs%3D@188.114.99.44:946?address=172.16.0.2%2F32&reserved=106%2C168%2C219&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://4LpXsCVNfoMksRu%2BnuWQ2s4%2FHg9j9c%2FZdWDIwR1P42g%3D@188.114.99.105:988?address=172.16.0.2%2F32&reserved=228%2C28%2C240&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
 
-wireguard://4LpXsCVNfoMksRu%2BnuWQ2s4%2FHg9j9c%2FZdWDIwR1P42g%3D@188.114.99.105:988?address=172.16.0.2%2F32&reserved=228%2C28%2C240&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 wireguard://KE%2B7NMKryv%2B36iKUPvucyM933dl1e2okktDaDY1Ga1M%3D@188.114.96.219:988?address=172.16.0.2%2F32&reserved=206%2C52%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
-
-wireguard://KE%2B7NMKryv%2B36iKUPvucyM933dl1e2okktDaDY1Ga1M%3D@188.114.96.219:988?address=172.16.0.2%2F32&reserved=206%2C52%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://KEuJbDTh3T3VjEaFxknrBJV7Bc57rDfT70AK6ktrYWg%3D@188.114.96.37:945?address=172.16.0.2%2F32&reserved=10%2C14%2C166&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
-wireguard://KEuJbDTh3T3VjEaFxknrBJV7Bc57rDfT70AK6ktrYWg%3D@188.114.96.37:945?address=172.16.0.2%2F32&reserved=10%2C14%2C166&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 wireguard://OFyteWUk3u%2FbvyYDpeoqXCY%2BnBxWupa%2FiE1LnmUyj1w%3D@188.114.97.163:1014?address=172.16.0.2%2F32&reserved=204%2C13%2C40&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
-
-wireguard://OFyteWUk3u%2FbvyYDpeoqXCY%2BnBxWupa%2FiE1LnmUyj1w%3D@188.114.97.163:1014?address=172.16.0.2%2F32&reserved=204%2C13%2C40&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://UEJF67p1YD4W0k%2FrMptIqIpSvbUqBzMH2BhJIkKUNWM%3D@188.114.98.156:942?address=172.16.0.2%2F32&reserved=42%2C43%2C115&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
@@ -486,8 +476,6 @@ wireguard://qIctt08GkkVBja%2FoD01CDGObggGPIfaXcP5%2F8dyqoVo%3D@162.159.192.165:8
 
 wireguard://wEKtnV41B6RSZ0jkEdP1Ae02U5b7HQD8mN0BDXtNckA%3D@188.114.98.100:903?address=172.16.0.2%2F32&reserved=176%2C119%2C232&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
 
-vmess://ewogICAgImFkZCI6ICJjbG91ZGZsYXJlLjE4MjY4Mi54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJrci5jZnl5ZHMuZmlsZWdlYXItc2cubWUiLAogICAgImlkIjogImI5YTMyMDZkLTI3OGMtNDYxNC1iMzUyLWVlZjYzMmQxYzhkNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9yb25nc2V2ZW4/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuMTU1LjEwLTEzMzUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsInBvcnQiOiIyMzQ1MiIsInR5cGUiOiJub25lIiwiaWQiOiI3MzE4YmMxNS00YmZmLTRlMjItYWFjMy00ZDlmODQ5OTMwZGIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0Ijoid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 
 vmess://eyJ2IjoiMiIsInBzIjoiRC1CUk9XTi04MjU4IiwiYWRkIjoiMTU3LjI0NS40LjUyIiwicG9ydCI6Ijg4ODEiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibWloYW53ZWJob3N0LmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIifQ==
@@ -497,6 +485,8 @@ vmess://eyJhZGQiOiAiMTA0LjIxLjI1LjY1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8x
 vmess://eyJhZGQiOiAiMTk0LjIzMy43Mi4yMjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjE2NTA5MjYyLWRiZTItNDNiYS05OWNlLTA3OTEzZDJhMThiNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjc1NzUiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMgU0ctMTk0LjIzMy43Mi4yMjg6Mjc1NzUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
 vmess://eyJhZGQiOiAiNDYuMjkuMTY2LjIzNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMGM0OWNkMTktMjc1OC00ZDM4LWU2YTgtMTFmMmQ2NjM1ODYwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NzU1NSIsICJwcyI6ICJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiBcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
+vmess://eyJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBjNDljZDE5LTI3NTgtNGQzOC1lNmE4LTExZjJkNjYzNTg2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc1NTUiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI2Mi4xNDYuMjMyLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNGVkYTBlYS1hY2YwLTQ1MzgtYTAwMS1mNzQ2YTQ4MDIzN2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMjgxIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh7jwn4esIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
