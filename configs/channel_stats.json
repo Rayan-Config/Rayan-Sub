@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-28T08:14:45.592887+00:00",
+  "timestamp": "2025-02-28T09:11:57.695658+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -8,11 +8,11 @@
         "total_configs": 34770,
         "valid_configs": 183,
         "unique_configs": 183,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.98,
-        "last_success": "2025-02-28T08:14:26.662396+00:00",
+        "overall_score": 75.0,
+        "last_success": "2025-02-28T09:11:38.594857+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 40,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.71,
-        "last_success": "2025-02-28T08:14:28.711376+00:00",
+        "last_success": "2025-02-28T09:11:40.643781+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -58,14 +58,14 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.6,
-        "last_success": "2025-02-28T08:14:40.645088+00:00",
+        "last_success": "2025-02-28T09:11:52.675127+00:00",
         "protocol_counts": {
-          "wireguard://": 28,
+          "wireguard://": 30,
           "hysteria2://": 2,
           "vless://": 56,
-          "vmess://": 48,
+          "vmess://": 45,
           "ss://": 56,
-          "trojan://": 55,
+          "trojan://": 56,
           "tuic://": 0
         }
       }
@@ -77,11 +77,11 @@
         "total_configs": 285,
         "valid_configs": 173,
         "unique_configs": 173,
-        "avg_response_time": 0.64,
+        "avg_response_time": 0.75,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.21,
-        "last_success": "2025-02-28T08:14:43.338715+00:00",
+        "overall_score": 89.05,
+        "last_success": "2025-02-28T09:11:55.474507+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 20,
