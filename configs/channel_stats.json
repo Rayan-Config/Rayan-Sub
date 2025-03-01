@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-01T10:10:56.296639+00:00",
+  "timestamp": "2025-03-01T11:08:38.298258+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -8,11 +8,11 @@
         "total_configs": 34770,
         "valid_configs": 183,
         "unique_configs": 183,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.94,
-        "last_success": "2025-03-01T10:10:41.871861+00:00",
+        "overall_score": 74.88,
+        "last_success": "2025-03-01T11:08:24.082741+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 40,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.72,
-        "last_success": "2025-03-01T10:10:43.911122+00:00",
+        "last_success": "2025-03-01T11:08:26.119834+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -58,12 +58,12 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.53,
-        "last_success": "2025-03-01T10:10:51.244290+00:00",
+        "last_success": "2025-03-01T11:08:33.276425+00:00",
         "protocol_counts": {
-          "wireguard://": 20,
+          "wireguard://": 19,
           "hysteria2://": 5,
           "vless://": 56,
-          "vmess://": 18,
+          "vmess://": 19,
           "ss://": 56,
           "trojan://": 56,
           "tuic://": 0
@@ -77,11 +77,11 @@
         "total_configs": 285,
         "valid_configs": 173,
         "unique_configs": 173,
-        "avg_response_time": 0.76,
+        "avg_response_time": 0.73,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.03,
-        "last_success": "2025-03-01T10:10:54.053691+00:00",
+        "overall_score": 89.07,
+        "last_success": "2025-03-01T11:08:36.058279+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 20,
